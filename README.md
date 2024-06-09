@@ -145,7 +145,7 @@
 ![image](https://github.com/bhatbharath/cdac_vega_tech_fusion_cruiser/assets/120124748/7d681b01-d0e5-431d-8f5c-07e18a15004a)
 
 ## Videos
-<a href="https://drive.google.com/file/d/1xIR6RuZ1BuRHVb4eUD2uz5_uqoBg3Y-X/view?usp=sharing">Video 01</a>
+<a href="https://drive.google.com/file/d/1xIR6RuZ1BuRHVb4eUD2uz5_uqoBg3Y-X/view?usp=sharing">Video 01</a><br>
 <a href="https://drive.google.com/file/d/1wLQFkdD4qTWnoOeUxY2CtxqeVKWM-ljE/view?usp=sharing">Video 02</a>
 
 ## References
@@ -157,6 +157,6 @@
 
 
 
-
+## Report
 ### You can access the report from the below link attached
 [Report.pdf](https://github.com/user-attachments/files/15751054/cdac_tech_fusion_cruiser.pdf)

@@ -50,7 +50,7 @@
     <th>HC05</th>
     <th>Aries Board</th>
   </thead>
-  <tbody>
+  <tbody style="text-align: justify" >
     <tr>
       <td>12V & 5V</td>
       <td>5V</td>

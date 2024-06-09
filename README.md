@@ -48,27 +48,47 @@
   </thead>
   <tbody>
     <tr>
-      <td>12V & 5V</td>
+      <td>VCC</td>
       <td>5V</td>
     </tr>
     <tr>
+      <td>5V In/Out</td>
+      <td>VIN</td>
+    </tr>
+    <tr>
       <td>GND</td>
       <td>GND</td>
     </tr>
     <tr>
-      <td>RXD</td>
-      <td>TX1</td>
+      <td>ENA</td>
+      <td>PWM1</td>
     </tr>
     <tr>
-      <td>TXD</td>
-      <td>RX1</td>
+      <td>IN1</td>
+      <td>GPIO13</td>
+    </tr>
+    <tr>
+      <td>IN2</td>
+      <td>GPIO15</td>
+    </tr>
+    <tr>
+      <td>IN3</td>
+      <td>GPIO14</td>
+    </tr>
+    <tr>
+      <td>IN4</td>
+      <td>GPIO16</td>
+    </tr>
+    <tr>
+      <td>ENB</td>
+      <td>PWM2</td>
     </tr>
   </tbody>
 </table>
 
-![image](https://github.com/bhatbharath/cdac_vega_tech_fusion_cruiser/assets/120124748/751995a9-3deb-4854-bacb-8a84311aa769)
+<!--![image](https://github.com/bhatbharath/cdac_vega_tech_fusion_cruiser/assets/120124748/751995a9-3deb-4854-bacb-8a84311aa769)
 ![image](https://github.com/bhatbharath/cdac_vega_tech_fusion_cruiser/assets/120124748/dd992305-dd95-4b4c-8cdc-3d214d0a7362)
-![image](https://github.com/bhatbharath/cdac_vega_tech_fusion_cruiser/assets/120124748/68771b9a-054e-4936-a06c-0e807815d303)
+![image](https://github.com/bhatbharath/cdac_vega_tech_fusion_cruiser/assets/120124748/68771b9a-054e-4936-a06c-0e807815d303)-->
 
 
 

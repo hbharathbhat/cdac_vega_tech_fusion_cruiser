@@ -13,6 +13,21 @@
 #### 05. Power bank/Batteries
 #### 06. Chassis
 
+
+## Connections
+<table>
+  <thead>
+    <th>HC05</th>
+    <th>Aries Board</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>12V & 5V</td>
+      <td>5V</td>
+    </tr>
+  </tbody>
+</table>
+
 ![image](https://github.com/bhatbharath/cdac_vega_tech_fusion_cruiser/assets/120124748/751995a9-3deb-4854-bacb-8a84311aa769)
 ![image](https://github.com/bhatbharath/cdac_vega_tech_fusion_cruiser/assets/120124748/dd992305-dd95-4b4c-8cdc-3d214d0a7362)
 ![image](https://github.com/bhatbharath/cdac_vega_tech_fusion_cruiser/assets/120124748/68771b9a-054e-4936-a06c-0e807815d303)

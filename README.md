@@ -25,6 +25,44 @@
       <td>12V & 5V</td>
       <td>5V</td>
     </tr>
+    <tr>
+      <td>GND</td>
+      <td>GND</td>
+    </tr>
+    <tr>
+      <td>RXD</td>
+      <td>TX1</td>
+    </tr>
+    <tr>
+      <td>TXD</td>
+      <td>RX1</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table>
+  <thead>
+    <th>L298N</th>
+    <th>Aries Board</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>12V & 5V</td>
+      <td>5V</td>
+    </tr>
+    <tr>
+      <td>GND</td>
+      <td>GND</td>
+    </tr>
+    <tr>
+      <td>RXD</td>
+      <td>TX1</td>
+    </tr>
+    <tr>
+      <td>TXD</td>
+      <td>RX1</td>
+    </tr>
   </tbody>
 </table>
 

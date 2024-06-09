@@ -9,3 +9,4 @@
 ### 04. DC Motors x 4
 ### 05. Power bank/Batteries
 ### 06. Chassis
+[cdac_tech_fusion_cruiser.pdf](https://github.com/user-attachments/files/15751054/cdac_tech_fusion_cruiser.pdf)

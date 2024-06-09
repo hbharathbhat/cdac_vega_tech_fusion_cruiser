@@ -142,6 +142,10 @@
   </tbody>
 </table>
 
+![image](https://github.com/bhatbharath/cdac_vega_tech_fusion_cruiser/assets/120124748/7d681b01-d0e5-431d-8f5c-07e18a15004a)
+
+## References
+<a href="https://vegaprocessors.in/">Vega Processors</a>
 
 <!--![image](https://github.com/bhatbharath/cdac_vega_tech_fusion_cruiser/assets/120124748/751995a9-3deb-4854-bacb-8a84311aa769)
 ![image](https://github.com/bhatbharath/cdac_vega_tech_fusion_cruiser/assets/120124748/dd992305-dd95-4b4c-8cdc-3d214d0a7362)

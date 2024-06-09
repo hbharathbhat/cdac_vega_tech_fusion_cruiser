@@ -4,7 +4,36 @@
 
 #### For motor control, the L298N motor driver is employed, enabling precise control of the four DC motors that power the car's movement. The entire setup is powered by a portable power bank, providing the necessary electrical power to all components. This project exemplifies a practical application of Bluetooth technology in remote vehicle control, making use of microcontroller programming, motor control, and wireless communication.
 
-## Components used: 
+## Components used
+<table>
+  <thead>
+    <th>Sl No</th>
+    <th>Components</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td>ARIES v3.0 Development Board</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>HC-05 Bluetooth Module</td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>L298N Motor Driver</td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>Power bank/Batteries</td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>Chassis with 4 DC Motors</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 01. ARIES v3.0 Development Board
 <!--![aries_V3](https://images.mobilism.org/?di=R8PK)-->
 #### 02. HC-05 Bluetooth Module
@@ -15,6 +44,7 @@
 
 
 ## Connections
+### HC05 and Aries Board
 <table>
   <thead>
     <th>HC05</th>
@@ -40,7 +70,7 @@
   </tbody>
 </table>
 
-
+### L298N Motor Driver and Aries Board
 <table>
   <thead>
     <th>L298N</th>
@@ -86,6 +116,7 @@
   </tbody>
 </table>
 
+### L298N and Motors
 <table>
   <thead>
     <th>L298N</th>
